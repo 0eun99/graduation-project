@@ -1,0 +1,60 @@
+*{margin: 0px; padding:0px;}
+
+body{
+    /* background-color: rgb(131, 185, 206); */ 
+    background-image:url('backIMG3.jpg');
+    background-repeat: no-repeat;
+}
+
+
+#whole{
+    width:1400px;
+    height:750px;
+    /* border: 4px solid black; */
+    background-color:white;
+    position:absolute;
+    top:50%;
+    left:50%;
+    margin-left:-700px;
+    margin-top:-375px;
+}
+
+#content{
+    width:1000px;
+    height:638px;
+    border: 4px solid rgb(173, 195, 204);
+
+    position:relative;
+    margin: 0 auto;
+    top:50px;
+    text-align:center;
+}
+
+header{
+    width:700px;
+    height:150px;
+    border: 4px solid rgb(173, 195, 204);
+
+    position:relative;
+    margin: 20px auto;
+    
+}
+
+.comment{
+    font-size:45px;
+    text-align:center;
+    color:rgb(82, 82, 82);
+}
+
+.comment2{
+    margin-top:5px;
+    margin-bottom: 2px;
+    font-size:15px;
+    text-align:center;
+    color:rgb(82, 82, 82);
+}
+#advice1{
+    width:380px;
+
+    position:relative;
+}
